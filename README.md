@@ -7,7 +7,7 @@ An XML based framework, designed for making mod settings that allow changes to T
 ## Documentation
 **Table of content:**
 * [Details](#Details)
-* [Requirements](Requirements)
+* [Requirements](#Requirements)
 * [Create](#Create)
 * [Configurator tags](#Configurator-tags)
 * [Design tags](#Design-tags)
