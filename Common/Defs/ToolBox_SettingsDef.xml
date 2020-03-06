@@ -73,7 +73,7 @@
 						</li>
 						<li>
 							<y>160</y>
-							<text>The following are default ThingDef properties that you may encounter on certain mods. But do keep in mind, it may be labeled differently for others. The function would still be the same, however. Example: Fill is labeled as Cover. There are also varying update types to a property, such as Cost requiring a game restart while Beauty updates after change. Live is colored green, purple is reload, while red is restart. </text>
+							<text>Mods that uses ToolBox will have default ThingDef properties and is labeled based on what is it is. However, there may be instances when a mod has relabeled the widgets. Example: Fill is labeled as Cover. There are also varying update types to a property, such as Cost requiring a game restart while Beauty updates after change. Live is colored green, purple is reload, while red is restart. </text>
 						</li>
 						<li>
 							<y>272.5</y>
