@@ -26,7 +26,7 @@
 							<y>154</y>
 							<!--<center>true</center>-->
 							<width>100</width>
-							<text><![CDATA[    <color=#FFD800>Author: Nif Version: 1.0.0.0</color>]]></text>
+							<text><![CDATA[    <color=#FFD800>Author: Nif Version: 1.0.2.0</color>]]></text>
 						</li>
 					</label>
 				</li>
@@ -172,10 +172,6 @@
 							<y>570</y>
 							<text>type of link an object can connect to.</text>
 						</li>
-						<li>
-							<y>645</y>
-							<text>>Intial release [1.0.0.0]</text>
-						</li>
 					</label>
 					<line>
 						<li>
@@ -232,12 +228,6 @@
 							<height>27</height>
 							<scale>1</scale>
 							<path>Properties</path>
-						</li>
-						<li>
-							<y>615</y>
-							<height>27</height>
-							<scale>1</scale>
-							<path>Changelog</path>
 						</li>
 					</image>
 				</li>
